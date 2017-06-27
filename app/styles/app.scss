@@ -23,9 +23,20 @@ img {
 
 .header {
   font-size: 30px;
-  color: #1A7D07;
+  color: #008403;
   font-family: serif;
 }
+
+.nav {
+  font-size: 20px;
+  color: #008403;
+  font-family: sans-serif;
+  display: inline-block;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
 .banner {
   position: relative;
   width: 100%;

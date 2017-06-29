@@ -30,7 +30,7 @@ img {
 .nav {
   font-size: 20px;
   color: #008403;
-  font-family: sans-serif;
+  font-family: 'Karla', sans-serif;
   display: inline-block;
   position: absolute;
   right: 20px;
@@ -47,17 +47,21 @@ img {
   top: 60px;
   left: 80px;
   color: white;
-  font-family: serif;
-  font-size: 45px;
-  background: rgba(0, 0, 0, 0.4);
-  padding: 10px 20px;
-  border-radius: 10px;
+  font-family: 'Karla', sans-serif;
+  font-size: 75px;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px #000;
+  padding: 40px 40px;
 }
 
+.legacy {
+  padding-top: 110px;
+}
 h2 {
-  font-size: 45px;
-  color: #1A7D07;
-  font-family: serif;
+  font-size: 55px;
+  font-weight: bolder;
+  color: #381893;
+  font-family: 'Karla', sans-serif;
   text-align: center;
   padding: 20px;
 }

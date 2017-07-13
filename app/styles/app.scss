@@ -34,16 +34,6 @@ body {
   font-family: 'Karla', sans-serif;
 }
 
-// .nav {
-//   font-size: 20px;
-//   color: white;
-//   font-family: 'Karla', sans-serif;
-//   display: inline-block;
-//   position: absolute;
-//   right: 20px;
-//   top: 20px;
-// }
-
 .banner {
   position: relative;
   width: 100%;
@@ -97,8 +87,19 @@ h2 {
   padding: 30px 5px;
 }
 
-.footer{
+.profile{
   background-color: #969DBA;
+  padding: 20px 5px;
+}
+.profile-text {
+  padding-top: 20px;
+  color: white;
+  font-family: 'Karla', sans-serif;
+  text-align: left;
+  font-size: 20px;
+}
+.footer{
+  background-color: #2C637B;
   color: white;
   padding-top: 15px;
   height: 100px;

@@ -94,8 +94,7 @@ h2 {
 }
 
 .ready {
-  color: white;
-  background-color: #2C637B;
+  color: #2C637B;
   padding: 20px;
   text-align: center;
 }
@@ -115,11 +114,15 @@ h2 {
   text-align: left;
   font-size: 20px;
 }
+.about {
+  font-weight: bold;
+  font-size: 25px;
+}
 .footer{
   background-color: #6C7B9A;
   color: white;
-  padding-top: 15px;
-  height: 100px;
+  padding-top: 25px;
+  height: 120px;
   text-align: center;
   height: 150px;
 }
